@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+        //Hello
         Scanner sc = new Scanner(System.in);
         System.out.println("Введите полное имя ");
 
