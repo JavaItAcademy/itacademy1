@@ -20,6 +20,6 @@ public class Main {
         System.out.println(array[1].charAt(0)+". "+ array[2].charAt(0)+". "+ array[0]);
         // Added
 		// Added 2
-		// Added 3
+		// Added 31
     }
 }
