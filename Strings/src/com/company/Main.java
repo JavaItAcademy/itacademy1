@@ -11,7 +11,7 @@ public class Main {
         System.out.println("Введите полное имя ");
 
         String st = sc.nextLine();
-
+        int count = 0;
         String[] array = st.split(" ");
         for(String s : array){
             System.out.println(s);
