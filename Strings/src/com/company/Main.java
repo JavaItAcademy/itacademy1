@@ -16,7 +16,7 @@ public class Main {
         for(String s : array){
             System.out.println(s);
         }
-
+        //Comment
         System.out.println(array[1].charAt(0)+". "+ array[2].charAt(0)+". "+ array[0]);
         // Added
     }
